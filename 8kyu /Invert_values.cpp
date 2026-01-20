@@ -30,5 +30,5 @@ std::vector<int> invert(std::vector<int> values)
       values[i] *= -1;
       return values;
 }
-Nota: Esta es una manera mas optimizada y simple de resolver el problema sin añadir mas librerias.
+Nota: Esta es una manera mas optimizada y simple de resolver el problema sin añadir mas librerias
 */
